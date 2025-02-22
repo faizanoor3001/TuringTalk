@@ -1,0 +1,21 @@
+if(who)
+{
+// this is a comment
+/* this is a block comment */
+/* this is a block comment
+    this is me
+    // this is again a single line comment
+    too */
+
+        /* this is java block comment
+        *
+        *  //
+        * //  even java doesn't
+         allow nested block comments*/
+
+         /* this is java block comment
+         *
+         allow nested block comments*/
+    int a= 34;
+    print "faiza is 34 years old";
+}
